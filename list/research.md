@@ -24,6 +24,20 @@ show_profile: true
 <div class = "card mb-2">
   <div class = "card-body">
     <h3 class = "card-title">
+      <a target = '_blank' href="https://arxiv.org/abs/2409.16493">
+        NoTeeline: Supporting Real-Time, Personalized Notetaking with LLM-Enhanced Micronotes
+      </a>
+    </h3>
+    <div class="card-text font-weight-light mb-0">
+       Faria Huq<b>*</b>, Abdus Samee<b>*</b>, David Chuan-En Lin, Xiaodi Alice Tang, Jeffrey Bigham
+    </div>
+    <span class="badge badge-info">Conditionally Accepted at IUI'25</span>
+  </div>
+</div>
+
+<div class = "card mb-2">
+  <div class = "card-body">
+    <h3 class = "card-title">
       <a target = '_blank' href="{{ site.baseurl }}{% link list/Extended_Abstract.pdf %}">
         Hybrid Synchronization Approach with Dynamic Weight Allocation for Secure Federated Learning
       </a>
@@ -41,7 +55,7 @@ show_profile: true
 <div class = "card mb-2">
   <div class = "card-body">
     <h3 class = "card-title">
-      <a _blank href="https://arxiv.org/abs/2409.16493">
+      <a target = '_blank' href="https://arxiv.org/abs/2409.16493">
         NoTeeline: Supporting Real-Time Notetaking from Keypoints with Large Language Models
       </a>
     </h3>
